@@ -1,3 +1,5 @@
+#' @description: color palettes for discrete and continuous values
+
 Palettes <- list(
   
   #---------------------------------------------------------------
