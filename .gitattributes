@@ -1,3 +1,2 @@
-*.js linguist-language=R
-*.css linguist-language=R
-*.html linguist-language=R
+*.h linguist-language=R
+*.m linguist-language=R
