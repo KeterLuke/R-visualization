@@ -1,2 +1,2 @@
 # R-visualization
-Code for making R charts
+A set of visualization methods for R charts.
